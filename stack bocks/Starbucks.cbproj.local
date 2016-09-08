@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/06/03 21:08:18.000.883,=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/06/03 21:08:18.000.916,=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:09:06.000.016,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\StarbucksPCH1.h=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/06/03 21:09:06.000.025,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Starbucks.cbproj=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2015/06/03 21:09:46.000.542,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Formulario.dfm=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/06/03 21:09:46.000.542,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Formulario.h=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2015/06/03 21:09:46.000.542,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Formulario.cpp=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:17:39.000.664,=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:17:56.000.311,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UMeser0.cpp=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:17:56.000.311,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UMeser0.h=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2015/06/03 21:18:17.000.244,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UMesero.cpp=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UMeser0.cpp</Transaction>
+    <Transaction>2015/06/03 21:18:17.000.244,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UMesero.h=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UMeser0.h</Transaction>
+    <Transaction>2015/06/03 21:18:30.000.571,=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:18:41.000.082,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UCombo.cpp=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:18:41.000.082,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UCombo.h=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2015/06/03 21:18:47.000.190,=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:20:09.000.486,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UGaseosa.h=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2015/06/03 21:20:09.000.486,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UGaseosa.cpp=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:20:17.000.712,=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:22:52.000.344,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UProducto.h=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2015/06/03 21:22:52.000.343,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UProducto.cpp=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:22:59.000.168,=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:23:20.000.288,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UPedido.cpp=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:23:20.000.288,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UPedido.h=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2015/06/03 21:23:25.000.401,=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:23:41.000.332,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UProductoPedido.cpp=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:23:41.000.332,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UProductoPedido.h=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2015/06/03 21:24:02.000.479,=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 21:28:32.000.284,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UCafe.h=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2015/06/03 21:28:32.000.284,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\UCafe.cpp=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/06/03 23:47:42.000.608,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Starbucks.cbproj=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Starbucks.cbproj</Transaction>
+    <Transaction>2015/06/04 12:42:12.000.435,=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2015/06/04 12:42:34.000.111,=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2015/06/04 12:42:48.000.662,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Frm2.h</Transaction>
+    <Transaction>2015/06/04 12:42:48.000.662,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Frm2.dfm</Transaction>
+    <Transaction>2015/06/04 12:42:48.000.662,C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Frm2.cpp</Transaction>
+    <Transaction>2015/06/04 19:00:35.000.360,=C:\Users\PERSONAL\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
