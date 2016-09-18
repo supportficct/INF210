@@ -1,0 +1,122 @@
+
+1----------------------------------------------
+
+a=0;
+while (a<n){
+    b=0;
+    While (b<n){
+     c=0;  d=n ; e=0;
+       while (c<n){
+          c++;
+          d--;e++;
+         }
+         b++;
+       }
+      a++;
+ }
+2-----------------------------------------
+void exa3(int v [], int n , int p ){
+
+int x,y,z;
+x=1 ; y=0;
+while (x<n-1){
+   y=v[x]+y;
+     PE(v,p)  ///// llama a otro procedimiento
+     x++
+}
+}
+3---------------------------------------------------------------------
+void exat (int v [], int n  ){
+   int i, j,H;
+     i=1; 
+      H=0;
+     while (i<=n){
+      H=v[i]+H;
+      i=i*2;
+
+}
+}
+4---------------------------------------------------------------------
+void preg1 (int v [], word  n) 
+{  int a,b,x;
+    a=1;
+    b=n ;
+  while (a<=b){
+     if (v[b]>v[a]){
+         x=v[a];
+         v[a]= v[b];
+          v [b]=x;
+      }
+     a++;
+     b--;
+  }
+
+
+} 
+5--------------------------------------------------------------------------
+void preg3(int v [], word  n) 
+{  int a,b,c;
+    a=1; b=n;
+    while (a<=b ){
+      c=(a+b)/2;
+        if (P(v[c])=== true ){   ///////////////una funcion   T(P(x))=2;
+           a =c+1;
+       
+        }else{
+        b=b-1;
+        }
+}
+}
+
+6----------------------------------------------------------------------
+void algo(int A [][], word  n){
+
+int k;
+ k=0;
+  while (k<n){
+     Quicks(A,k,n);   /////////////////   el tiempo del quicsort T(Quicks(A,f,n))= 3nlog2(n)+5  
+     k=k+1;
+    
+   }
+}
+
+
+
+me falto este
+7----------------------------------------------------------------------------
+void algo2(int A[][], word n){
+int K,j,i,H;
+   k=1;
+     while (k<=n ){
+      j=0;
+      while (j<n){
+       i=A[j][H]+i;
+        H=j;
+        while (H<n){
+           showmessage ("hola");
+             H++;
+         }
+          j++;
+      }
+         k++;
+    }
+}
+
+listoviejo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
